@@ -1,6 +1,6 @@
 # youtube-alert-blocker
 
-[youtube.com](https://youtube.com.com/) の 警告を自動で続行する拡張機能です<br>
+[youtube.com](https://youtube.com/) の 警告を自動で続行する拡張機能です<br>
 
 これのこと
 ![screenshot](docs/img/screenshot.png)
