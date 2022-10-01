@@ -1,0 +1,6 @@
+div#player-error-message-container{
+    display: none!important;
+}
+div#clarify-box{
+    display: none;
+}

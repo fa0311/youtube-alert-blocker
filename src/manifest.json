@@ -1,0 +1,24 @@
+{
+    "name": "youtube-alert-blocker",
+    "description": "youtubeの警告を自動で続行する拡張機能です",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "html/popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://youtube.com/*",
+                "https://m.youtube.com/*",
+                "https://www.youtube.com/*"
+            ],
+            "js": [
+                "js/main.js"
+            ],
+            "css": [
+                "css/main.css"
+            ]
+        }
+    ]
+}
