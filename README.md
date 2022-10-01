@@ -10,7 +10,7 @@ YOASOBIの[夜に駆ける](https://youtu.be/x8VYWazR5mE)やツユの[あの世�
 
 # インストール
 
-[releases](https://github.com/fa0311/youtube-alert-blocker/releases) の manifest_v3.zip を選択してファイルをダウンロード
+[releases](https://github.com/fa0311/youtube-alert-blocker/releases) の manifest_v3.zip を選択してファイルをダウンロード<br>
 Chrome の 拡張機能の管理 を選択して デベロッパーモード を有効にした後、ダウンロードした zip ファイルをページにドラッグしてください
 
 # License
