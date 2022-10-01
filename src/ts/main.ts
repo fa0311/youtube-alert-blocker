@@ -4,7 +4,7 @@ const bypasser = (nodeList: HTMLElement) => {
     const feedList:  NodeListOf<Element> = nodeList.parentElement.querySelectorAll(query);
     for (const feed of feedList) {
         (<HTMLElement>feed).click();
-        console.log("[choge-blog-bypass-ad-blocking-detection] success.");
+        console.log("[youtube-alert-blocker] success.");
     }
 }
 
