@@ -1,5 +1,6 @@
 const bypasser = (nodeList: HTMLElement) => {
-  const query = "div#player-error-message-container tp-yt-paper-button#button";
+  const query =
+    "yt-playability-error-supported-renderers#error-screen yt-touch-feedback";
   const feedList: NodeListOf<Element> = nodeList.querySelectorAll(query);
   for (const feed of feedList) {
     (<HTMLElement>feed).click();
