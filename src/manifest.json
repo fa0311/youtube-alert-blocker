@@ -1,7 +1,7 @@
 {
     "name": "youtube-alert-blocker",
     "description": "youtubeの警告を自動で続行する拡張機能です",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "manifest_version": 3,
     "action": {
         "default_popup": "html/popup.html"
