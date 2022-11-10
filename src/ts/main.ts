@@ -1,6 +1,6 @@
 const bypasser = (nodeList: HTMLElement) => {
   const query =
-    "yt-playability-error-supported-renderers#error-screen yt-touch-feedback";
+    "yt-playability-error-supported-renderers#error-screen yt-touch-feedback-shape";
   const feedList: NodeListOf<Element> = nodeList.querySelectorAll(query);
   for (const feed of feedList) {
     (<HTMLElement>feed).click();
