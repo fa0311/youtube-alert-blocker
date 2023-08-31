@@ -11,7 +11,8 @@
             "matches": [
                 "https://youtube.com/*",
                 "https://m.youtube.com/*",
-                "https://www.youtube.com/*"
+                "https://www.youtube.com/*",
+                "https://music.youtube.com/*"
             ],
             "js": [
                 "js/main.js"
