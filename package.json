@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "npx webpack --mode production"
+  },
   "devDependencies": {
     "@types/chrome": "^0.0.197",
     "copy-webpack-plugin": "^11.0.0",
