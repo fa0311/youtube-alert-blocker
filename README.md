@@ -1,5 +1,7 @@
 # youtube-alert-blocker
 
+![img.shields.io](https://img.shields.io/github/downloads/fa0311/youtube-alert-blocker/total)
+
 [youtube.com](https://youtube.com/) の 警告を自動で続行する拡張機能です<br>
 
 自殺や自傷行為に関する表現が含まれているとYouTubeが判断した音楽をYouTubeで聞く際に操作が必要になる事があり、いちいち操作するのが非常に面倒です<br>
